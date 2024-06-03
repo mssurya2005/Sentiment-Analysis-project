@@ -1,0 +1,7 @@
+sentiment_analysis_project/
+│
+├── sentiment_analysis.py
+|
+├── requirements.txt
+|     
+└──README.md

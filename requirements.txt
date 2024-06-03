@@ -1,0 +1,4 @@
+1 . #nltk version
+nltk == 3.7
+2 . to install the package from the 'requirements.txt' file ,you can use the following command:
+pip install -r requirements.txt
