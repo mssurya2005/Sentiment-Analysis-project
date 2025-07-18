@@ -1,25 +1,28 @@
-# Sentiment Analysis of Movie Reviews
+# 🎬 Sentiment Analysis of Movie Reviews
 
-## Overview
-This project performs sentiment analysis on a set of movie reviews using the VADER sentiment analysis tool from the NLTK library.
+## 📝 Overview
+This project performs sentiment analysis on a set of movie reviews using the **VADER** sentiment analysis tool from the **NLTK** library.
 
-## Files
-- sentiment_analysis.py: The main script for analyzing sentiment in movie reviews.
-- README.md: This file, which provides an overview and instructions.
-- requirements.txt: List of dependencies needed to run the project.
+## 📂 Files
+- `sentiment_analysis.py`: The main script for analyzing sentiment in movie reviews.
+- `README.md`: This file, which provides an overview and instructions.
+- `requirements.txt`: List of dependencies needed to run the project.
 
-## Installation
-1. Clone the repository.
-2. Navigate to the project directory.
+## ⚙️ Installation
+1. Clone the repository.  
+2. Navigate to the project directory.  
 3. Install the required libraries using pip:
-    bash
-    pip install -r requirements.txt
-    
 
-## Usage
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## 🚀 Usage
 Run the script to analyze the predefined movie reviews:
+
 ```bash
-python sentiment_analysis.py 
+python sentiment_analysis.py
+ 
 
 This script will print the sentiment scores and the overall sentiment(Positive , Negative , neutral) for each review.
 
