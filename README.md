@@ -31,7 +31,7 @@ Review: This movie was amazing! The storyline was gripping and the characters we
 Sentiment Scores: {'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.8612}
 Overall Sentiment: Positive
 
-...
+```
 
 ## Author
 Sai Surya
